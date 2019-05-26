@@ -7,3 +7,7 @@ Horse.prototype.jump = function() {
 Horse.prototype.run = function() {
 	console.log('Run');
 };
+
+Horse.prototype.sleep = function() {
+	console.log('Sleep');
+};
