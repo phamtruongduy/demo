@@ -11,3 +11,6 @@ Horse.prototype.run = function() {
 Horse.prototype.say = function() {
 	console.log('Say');
 };
+Horse.prototype.sleep = function() {
+	console.log('Sleep');
+};
